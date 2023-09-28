@@ -1,0 +1,131 @@
+.collapse {
+    position: absolute;
+    right: 20px;
+
+}
+
+.carousel-inner img {
+    padding: 20px;
+    height: 100vh;
+    width: 100vw;
+    border-radius: 10px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 80px;
+}
+
+span.what {
+    color: orange;
+}
+
+.container {
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 80px;
+}
+
+.cont {
+    width: 100vw;
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+}
+
+.contact {
+    height: 100px;
+    width: 100vw;
+    background-color: #e3f2fd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.contact img {
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+}
+
+.content {
+    text-align: center;
+    color: lightslategrey;
+
+}
+
+.container-fluid {
+    float: none;
+    position: absolute;
+    top: 25px;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.navbar {
+    height: 50px;
+    width: 100vw
+}
+
+.carousel-item active img {
+    height: 700px;
+    width: 500px;
+}
+
+.carousel-item  img {
+    height: 700px;
+    width: 500px;
+}
+
+.carousel-item  img {
+    height: 700px;
+    width: 500px;
+}
+
+/* .card img{ 
+    height: 300px;
+    width:300px; 
+
+} */
+h1{
+    text-align: center;
+}
+.down{
+    height: 100px;
+    width: 100vw;
+    background-color: #e3f2fd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.class{
+    background-color: rgb(247, 247, 247);
+    height: 130px;
+    width: 100vw;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.class img{
+    height: 40px;
+    width: 40px;
+    margin: 30px;
+   
+}
+  
+ 
