@@ -6,7 +6,7 @@ app.use(body.urlencoded({extended:true}))
 app.use(express.static("public"))
 
 
-mongoose.connect("mongodb+srv://Akarsha:AkdSUiet@cluster().cib132o.mongodb.net/logindb",{useNewUrlParser:true})
+mongoose.connect("mongodb+srv://Bipintp:bipin123@cluster0.5zmsh59.mongodb.net/logindb",{useNewUrlParser:true})
 
 const userschema=mongoose.Schema({name:String})
 
